@@ -55,3 +55,19 @@ AWS is a suitable platform for a global e-commerce company because it provides a
 * Elastic Load Balancing – Distributes application traffic across resources
 * Amazon RDS – Relational database
 
+## 5. Multi-Cloud Decision Matrix
+
+| Business Requirement    | Recommended Platform | Justification                                                                                                                |
+| ----------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Startup Company         | AWS                  | AWS provides a broad range of services that can support a startup as it grows.                                               |
+| Enterprise Organization | AWS                  | AWS offers a wide range of enterprise cloud services for different workloads and requirements.                               |
+| Microsoft Environment   | Microsoft Azure      | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning   | Google Cloud         | Google Cloud provides strong AI and machine learning services and infrastructure.                                            |
+| Kubernetes Deployment   | Google Cloud         | Google Kubernetes Engine (GKE) is a managed Kubernetes service designed for running containerized applications.              |
+| Global Web Application  | AWS                  | AWS provides global infrastructure and scalable services suitable for applications serving users in different locations.     |
+
+### Summary
+
+The best cloud provider depends on the organization's requirements. AWS is a strong general-purpose choice, Azure is especially suitable for Microsoft-based environments, and Google Cloud is a strong option for AI, data, and Kubernetes-focused workloads.
+
+
